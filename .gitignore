@@ -1,0 +1,5 @@
+bags/
+check_*/
+*.mcap
+*.db3
+*.bag
